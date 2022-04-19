@@ -1,0 +1,13 @@
+{
+  "name": "hacker-news",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.4.1"
+  },
+  "author": "Mingu Kim",
+  "license": "MFK"
+}
