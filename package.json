@@ -1,5 +1,5 @@
 {
-  "name": "hacker-news",
+  "name": "hacker-news-client",
   "source": "index.html",
   "scripts": {
     "start": "parcel",
@@ -7,7 +7,5 @@
   },
   "devDependencies": {
     "parcel": "^2.4.1"
-  },
-  "author": "Mingu Kim",
-  "license": "MFK"
+  }
 }
