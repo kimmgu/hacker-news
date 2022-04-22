@@ -15,6 +15,7 @@
 
 ## Typescript Starter Kit - Hacker News Migration
 
-|    Date    | Chapter |            Progress            |
-| :--------: | :-----: | :----------------------------: |
-| 2022-04-23 |   One   | To create a type in a variable |
+|    Date    | Chapter |                 Progress                 |
+| :--------: | :-----: | :--------------------------------------: |
+| 2022-04-23 |   One   |      To create a type in a variable      |
+| 2022-04-23 |   Two   | To create a specification for a function |
