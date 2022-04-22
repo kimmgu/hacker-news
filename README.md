@@ -1,4 +1,4 @@
-# Hacker News
+# Hacker News Project
 
 ## JavaScript Starter Kit - Hacker News Client
 
@@ -12,3 +12,9 @@
 | 2022-04-22 |   Six   | Preparing for complex UI implementation - template |
 | 2022-04-22 |  Seven  |    Create a UI that displays a list of comments    |
 | 2022-04-22 |  Eight  |                Checking what I read                |
+
+## Typescript Starter Kit - Hacker News Migration
+
+|    Date    | Chapter |            Progress            |
+| :--------: | :-----: | :----------------------------: |
+| 2022-04-23 |   One   | To create a type in a variable |
