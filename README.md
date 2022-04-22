@@ -10,3 +10,4 @@
 | 2022-04-21 |  Four   |          Router? Create a screen handler           |
 | 2022-04-22 |  Five   |                  Implement paging                  |
 | 2022-04-22 |   Six   | Preparing for complex UI implementation - template |
+| 2022-04-22 |  Seven  |    Create a UI that displays a list of comments    |
