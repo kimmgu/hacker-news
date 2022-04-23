@@ -20,3 +20,4 @@
 | 2022-04-23 |   One   |      To create a type in a variable      |
 | 2022-04-23 |   Two   | To create a specification for a function |
 | 2022-04-23 |  Three  |            Type and Interface            |
+| 2022-04-24 |  Four   |         class, extends & Mixins          |
